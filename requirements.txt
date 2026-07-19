@@ -1,0 +1,14 @@
+# Core AI orchestration
+langchain>=0.3.0
+langchain-groq>=0.2.0
+langchain-core>=0.3.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Utilities
+pyperclip>=1.9.0          # Clipboard tools
+psutil>=6.0.0             # System tools
+
+# Type stubs (dev)
+# mypy>=1.11.0
